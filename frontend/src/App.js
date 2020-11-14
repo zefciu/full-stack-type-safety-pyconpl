@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import {Person} from './Person';
+import {PersonView} from './Person';
 
 function App() {
   return (
     <div className="App">
-      <Person />
+      <PersonView />
     </div>
   );
 }
